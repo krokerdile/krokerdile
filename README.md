@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me
 #### EMAIL : krokerdile@naver.com
 #### EMAIL2 : crazykroker@gmail.com
+
+- I'm now writing about my experiences 
+#### BLOG : https://jacky0831.tistory.com/

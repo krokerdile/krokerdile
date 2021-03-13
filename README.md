@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - I'm now writing about my experiences 
 #### BLOG : https://jacky0831.tistory.com/
-#### [![JACKY's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/krokerdile/github-readme-stats)
+#### [![JACKY's github stats](https://github-readme-stats.vercel.app/api?username=krokerdile)](https://github.com/krokerdile/github-readme-stats)

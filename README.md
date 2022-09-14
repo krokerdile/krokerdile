@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 - I'm now writing about my experiences 
 #### BLOG : https://jacky0831.tistory.com/
+#### PORTFOLIO : https://jacky0831.notion.site/_-d278bb8613c642458d61ccaa7d5afc96

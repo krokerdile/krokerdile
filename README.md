@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrokerdile&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 👨‍💻 About Me
-- 프론트엔드 개발자를 꿈꾸는 경북대학교 컴퓨터학부 글로벌SW융합전공 졸업예정자
+- 경북대학교 컴퓨터학부 글로벌SW융합전공 졸업
 - '왜 이 기술을 사용하는가'에 대한 깊이 있는 고민을 통해 근거 있는 의사결정 추구
 - 체계적인 문서화와 지식 공유를 통한 팀 성장 기여 
 - 현재 네이버 부스트캠프 웹・모바일 9기 참여 중

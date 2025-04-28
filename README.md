@@ -1,8 +1,6 @@
 # 김현우 (Hyunwoo Kim) 
 > 웹 생태계에 대한 전반적인 이해를 바탕으로 사용자에게 새로운 가치를 전달하는 프론트엔드 개발자입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrokerdile&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 👨‍💻 About Me
 - 경북대학교 컴퓨터학부 글로벌SW융합전공 졸업
 - '왜 이 기술을 사용하는가'에 대한 깊이 있는 고민을 통해 근거 있는 의사결정 추구
